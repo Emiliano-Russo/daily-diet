@@ -3,7 +3,6 @@
 
 # 🍏 **Daily Diet API**
 
-The Daily Diet API is an application developed as part of **Challenge 02** of the **["Creating RESTful APIs with Node.js"](https://rocketseat.com.br)** module.
 
 ## 📋 **Rules**
 
@@ -71,10 +70,7 @@ Now, the **Daily Diet API** is up and running, ready for use.
 
 ##  👨‍💻 **Author**
 
-Luiz Henrique - Software Developer
+Emiliano Russo - Software Developer
 
-[Linkedin](https://www.linkedin.com/in/luiz-henrique7/) | [E-mail](mailto:7henrique18@gmail.com)
-
-> This project was developed as part of **Challenge 02** of the **["Creating RESTful APIs with Node.js"](https://rocketseat.com.br)** course at **[Rocketseat](https://rocketseat.com.br)**. 🚀📚
 
 
